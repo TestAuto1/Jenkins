@@ -17,6 +17,10 @@ public class TC_001 {
 	
 	}
 	
-	
+	@Test				
+	public void Dummy_test_to_pass1() 
+	{									 
+	Assert.assertEquals(1,1); 		
+	}	
 
 }
